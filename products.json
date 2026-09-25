@@ -1,0 +1,65 @@
+[
+  {
+    "id": "pp_muft4vw30",
+    "title": "Techwear Hoodie — Module 12 Duct Blueprint",
+    "kind": "Hoodie",
+    "image": "https://images.printify.com/mockup/6ab55e5e80385857370eede8/32912/98424/techwear-hoodie-module-12-duct-blueprint-cyberpunk-unisex-pullover-sweatshirt.jpg?camera_label=front",
+    "blurb": "A full-back blueprint of a fictional underground duct junction, gauges and voltage icons included, paired with a small chest patch labeled MODULE 12. For techwear, darkwear and techno people who want a piece that feels like a uniform.",
+    "priceMin": 43.99,
+    "priceMax": 46.99
+  },
+  {
+    "id": "pp_mugx9qj90",
+    "title": "Ethical Hacker Long Sleeve — CTF Server Maze",
+    "kind": "Long sleeve",
+    "image": "https://images.printify.com/mockup/6ab665f4ae4c4ccda20c70cf/25076/103304/ethical-hacker-long-sleeve-shirt-ctf-server-maze-design-infosec-pentester-gift-tee.jpg?camera_label=front",
+    "blurb": "An amber monoline maze of server racks and firewall gates on the back, with a tiny hooded silhouette slipping through. For pentesters, SOC analysts and CTF players who live in terminals and threat models.",
+    "priceMin": 38.99,
+    "priceMax": 43.99
+  },
+  {
+    "id": "pp_muh0tc130",
+    "title": "Modular Synth Cap — Patch Me",
+    "kind": "Cap",
+    "image": "https://images.printify.com/mockup/6ab67cf73994cfc3ef076d0b/82433/53890/modular-synth-low-profile-cap-patch-me-eurorack-oscilloscope-sine-wave-hat-gift-for-synth-musician.jpg?camera_label=front",
+    "blurb": "Bold arched \"PATCH ME\" text over a hand-drawn oscilloscope sine wave, in a retro technical-manual style. Built for the hobbyist and semi-pro synth builder who lives for cables and the perfect patch.",
+    "priceMin": 24.99,
+    "priceMax": 24.99
+  },
+  {
+    "id": "pp_muej9u3g0",
+    "title": "First Draft Society Tee",
+    "kind": "T-shirt",
+    "image": "https://images.printify.com/mockup/6ab4319ada4b2a75e809d47a/18542/92547/first-draft-society-writer-tee-poetcore-aesthetic-shirt-front-and-back-print-gift-for-poets-and-writers.jpg?camera_label=front",
+    "blurb": "\"First Draft Society\" in engraved serif, a single crossed-out line beneath it and a faint ink bleed — printed front and back. For anyone who calls themselves a writer before publishing a word.",
+    "priceMin": 26.99,
+    "priceMax": 30.99
+  },
+  {
+    "id": "pp_mufoyh670",
+    "title": "Margins Are Where I Live Tee",
+    "kind": "T-shirt",
+    "image": "https://images.printify.com/mockup/6ab5430c7892aa2f3f01e4c1/18542/92547/margins-are-where-i-live-writer-t-shirt-poetry-marginalia-tee-front-back-print-gift-for-writers.jpg?camera_label=front",
+    "blurb": "A page crowded with handwritten marginalia, scattered asterisks and a coffee ring, front and back. For the ones who fill notebook margins with second thoughts and half-finished lines.",
+    "priceMin": 29.99,
+    "priceMax": 33.99
+  },
+  {
+    "id": "pp_mufsmhg00",
+    "title": "Still Revising Tee — Quill & Wax Seal",
+    "kind": "T-shirt",
+    "image": "https://images.printify.com/mockup/6ab55b3b7ebef793c30124da/18542/92547/still-revising-writer-t-shirt-poet-quill-pen-wax-seal-badge-tee-poetry-writing-gift-for-authors.jpg?camera_label=front",
+    "blurb": "A circular engraved badge with crossed quill pens set in a wax-seal ring, \"Still Revising\" curving along the bottom. For poets, journal keepers and anyone permanently in the middle of another draft.",
+    "priceMin": 26.99,
+    "priceMax": 30.99
+  },
+  {
+    "id": "pp_mueixgxa0",
+    "title": "First Draft Society Tee — Dark Academia",
+    "kind": "T-shirt",
+    "image": "https://images.printify.com/mockup/6ab42f4eaefd5e9cc50f6fd0/18542/92547/first-draft-society-t-shirt-writer-aesthetic-tee-poetcore-dark-academia-shirt-gift-for-poets-and-writers.jpg?camera_label=front",
+    "blurb": "\"First Draft Society\" in engraved serif with a crossed-out line and faint ink bleed, front placement. For anyone who has stared down a blank page and kept going anyway.",
+    "priceMin": 17.99,
+    "priceMax": 21.99
+  }
+]
